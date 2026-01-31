@@ -15,7 +15,7 @@ export const DISORDERS: MentalDisorder[] = [
     shortDescription: 'A mood disorder causing a persistent feeling of sadness and loss of interest.',
     fullDescription: 'Depression is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Fortunately, it is also treatable. Depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed.',
     symptoms: ['Persistent sad, anxious, or "empty" mood', 'Feelings of hopelessness', 'Loss of interest in hobbies', 'Decreased energy or fatigue', 'Difficulty sleeping'],
-    treatment: ['Psychotherapy', 'Antidepressants', 'Brain stimulation therapies', 'Lifestyle changes (exercise, diet)']
+    treatment: ['Psychotherapy', 'AntiDepressants', 'Brain stimulation therapies', 'Lifestyle changes (exercise, diet)']
   },
   {
     id: 'ptsd',
